@@ -1,0 +1,10 @@
+.kill{
+  position: absolute;
+  z-index: 10;
+  top: 15%;
+  left: 35%;
+}
+
+.container{
+  position: relative;
+}
